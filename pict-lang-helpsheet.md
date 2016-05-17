@@ -2,13 +2,17 @@
 
 ## Building Blocks
 
-| ![](images/bb/heart-bb.jpg) | ![](images/bb/black-bb.jpg) | ![](images/bb/pentagram-bb.jpg) | ![](images/bb/black-bb.jpg) | ![](images/bb/circle-bb.jpg) |
-| -- | -- | -- | -- | -- |
-| `heart-bb` | `black-bb` | `pentagram-bb` | `black-bb` | `circle-bb` |
+| ![](images/bb/rcross_bb.png) | ![](images/bb/heart_bb.png) | ![](images/bb/sail_bb.png) | ![](images/bb/corner_bb.png) |
+| -- | -- | -- | -- |
+| `rcross_bb` | `heart_bb` | `sail_bb` | `corner_bb` |
 
-| ![](images/bb/spiral-bb.jpg) | ![](images/bb/black-bb.jpg) | ![](images/bb/pentagram-bb.jpg) | ![](images/bb/black-bb.jpg) | ![](images/bb/circle-bb.jpg) |
-| -- | -- | -- | -- | -- |
-| `spiral-bb` | `black-bb` | `pentagram-bb` | `black-bb` | `circle-bb` |
+| ![](images/bb/ribbon_bb.png) | ![](images/bb/spiral_bb.png) | ![](images/bb/circle_bb.png) | ![](images/bb/pentagram_bb.png) |
+| -- | -- | -- | -- |
+| `ribbon_bb` | `spiral_bb` | `circle_bb` | `pentagram_bb` |
+
+| ![](images/bb/nova_bb.png) | ![](images/bb/blank_bb.png) | ![](images/bb/black_bb.png) | ![](images/bb/blank_bb.png) |
+| -- | -- | -- | -- |
+| `nova_bb` | `blank_bb` | `black_bb` |  |
 
 ## Basic Commands
 
