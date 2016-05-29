@@ -17,7 +17,12 @@
 - `anaglyph`
 - `hollusion`
 
-## Basic 2D Operations
+## Basic Operations
+
+These functions have been provided for you to create your rune designs with. 
+Complete Bonus Quests to learn more techniques and unlock more functions!
+
+### 2D Operations
 
 ### `quarter_turn_right`
 
@@ -49,7 +54,7 @@
 
 ### `stacker`
 
-## Basic 3D Operations
+### 2D Operations
 
 ### `overlay`
 
