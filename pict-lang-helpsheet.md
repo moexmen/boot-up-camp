@@ -146,7 +146,7 @@ Complete Bonus Quests to learn more techniques and unlock more functions!
 
 | Example | `pic` | Output |
 | -- | -- | -- |
-| `stacker(5, nova_bb)` | ![](images/bb/nova_bb.png) | ![](images/bb/stacker_5_rcross.png) |
+| `stacker(5, rcross_bb)` | ![](images/bb/rcross_bb.png) | ![](images/bb/stacker_5_rcross.png) |
 
 ### 3D Operations
 
