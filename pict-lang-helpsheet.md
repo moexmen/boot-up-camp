@@ -26,15 +26,28 @@ Complete Bonus Quests to learn more techniques and unlock more functions!
 
 ### `quarter_turn_right`
 
-`quarter_turn_right(pic)` turns the picture `pic` 90 degress to the right.
+`quarter_turn_right(pic)` turns the picture `pic` 90 degrees to the right.
 
-| Example | Inputs | Outputs |
+| Example | Input(s) | Outputs |
 | -- | -- | -- |
 | `quarter_turn_right(heart_bb)` | ![](images/bb/heart_bb.png) | ![](images/bb/quarter_turn_right_heart.png) |
 
 ### `turn_upside_down`
 
+`turn_upside_down(pic)` turns the picture `pic` 180 degrees.
+
+| Example | Input(s) | Outputs |
+| -- | -- | -- |
+| `turn_upside_down(heart_bb)` | ![](images/bb/heart_bb.png) | ![](images/bb/turn_upside_down_heart.png) |
+
 ### `quarter_turn_left`
+
+`quarter_turn_left(pic)` turns the picture `pic` 90 degrees to the left.
+
+| Example | Input(s) | Outputs |
+| -- | -- | -- |
+| `quarter_turn_left(heart_bb)` | ![](images/bb/heart_bb.png) | ![](images/bb/quarter_turn_left_heart.png) |
+
 
 ### `stack`
 
