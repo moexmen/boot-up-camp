@@ -12,16 +12,4 @@
 
 | ![](images/bb/nova_bb.png) | ![](images/bb/blank_bb.png) | ![](images/bb/black_bb.png) | ![](images/bb/blank_bb.png) |
 | -- | -- | -- | -- |
-| `nova_bb` | `blank_bb` | `black_bb` |  |
-
-## Basic Commands
-
-TODO
-
-## Compound Commands
-
-TODO
-
-## Extra Commands
-
-TODO
+| `nova_bb` | `blank_bb` | `black_bb` | `        ` |
