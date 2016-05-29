@@ -152,4 +152,16 @@ Complete Bonus Quests to learn more techniques and unlock more functions!
 
 ### `overlay`
 
+`overlay(pic1, pic2)` overlays `pic1` onto `pic2` evenly such that both layers have equal thickness.
+
+| Example | `pic1` | `pic2` | Output |
+| -- | -- | -- | -- |
+| `overlay(nova_bb, rcross_bb)` | ![](images/bb/nova_bb.png) | ![](images/bb/rcross_bb.png) | ![](images/bb/overlay_nova_rcross.png) |
+
 ### `overlay_frac`
+
+`overlay_frac(frac, pic1, pic2)` overlays `pic1` onto `pic2` such that the top layer containing `pic1` is `frac` fraction the thickness of the output rune.
+
+| Example | `pic1` | `pic2` | Output |
+| -- | -- | -- | -- |
+| `overlay_frac(1/4, nova_bb, rcross_bb)` | ![](images/bb/nova_bb.png) | ![](images/bb/rcross_bb.png) | ![](images/bb/overlay_frac_nova_rcross.png) |
