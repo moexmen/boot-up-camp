@@ -26,6 +26,12 @@ Complete Bonus Quests to learn more techniques and unlock more functions!
 
 ### `quarter_turn_right`
 
+`quarter_turn_right(pic)` turns the picture `pic` 90 degress to the right.
+
+| Example | Inputs | Outputs |
+| -- | -- | -- |
+| `quarter_turn_right(heart_bb)` | ![](images/bb/heart_bb.png) | ![](images/bb/quarter_turn_right_heart.png) |
+
 ### `turn_upside_down`
 
 ### `quarter_turn_left`
