@@ -28,7 +28,7 @@ Complete Bonus Quests to learn more techniques and unlock more functions!
 
 `quarter_turn_right(pic)` turns the picture `pic` 90 degrees to the right.
 
-| Example | Input(s) | Outputs |
+| Example | `pic` | Output |
 | -- | -- | -- |
 | `quarter_turn_right(heart_bb)` | ![](images/bb/heart_bb.png) | ![](images/bb/quarter_turn_right_heart.png) |
 
@@ -36,7 +36,7 @@ Complete Bonus Quests to learn more techniques and unlock more functions!
 
 `turn_upside_down(pic)` turns the picture `pic` 180 degrees.
 
-| Example | Input(s) | Outputs |
+| Example | `pic` | Output |
 | -- | -- | -- |
 | `turn_upside_down(heart_bb)` | ![](images/bb/heart_bb.png) | ![](images/bb/turn_upside_down_heart.png) |
 
@@ -44,16 +44,35 @@ Complete Bonus Quests to learn more techniques and unlock more functions!
 
 `quarter_turn_left(pic)` turns the picture `pic` 90 degrees to the left.
 
-| Example | Input(s) | Outputs |
+| Example | `pic` | Output |
 | -- | -- | -- |
 | `quarter_turn_left(heart_bb)` | ![](images/bb/heart_bb.png) | ![](images/bb/quarter_turn_left_heart.png) |
 
 
 ### `stack`
 
+`stack(pic1, pic2)` returns a new picture with `pic1` occupying the upper half of the new picture and `pic2` occupying the lower half.
+
+| Example | `pic1` | `pic2` | Output |
+| -- | -- | -- | -- |
+| `stack(rcross_bb, sail_bb)` | ![](images/bb/rcross_bb.png) | ![](images/bb/sail_bb.png) | ![](images/bb/stack_rcross_sail.png) |
+
 ### `stack_frac`
 
+`stack_frac(frac, pic1, pic2)` returns a new picture with `pic1` occupying the upper `frac` fraction of the new picture and `pic2` occupying the rest of the picture.
+
+| Example | `pic1` | `pic2` | Output |
+| -- | -- | -- | -- |
+| `stack_frac(1/3, rcross_bb, sail_bb)` | ![](images/bb/rcross_bb.png) | ![](images/bb/sail_bb.png) | ![](images/bb/stack_frac_third_rcross_sail.png) |
+
 ### `beside`
+
+`beside(pic1, pic2)` returns a new picture with `pic1` occupying the left half of the new picture and `pic2` occupying the right half.
+
+| Example | `pic1` | `pic2` | Output |
+| -- | -- | -- | -- |
+| `beside(rcross_bb, sail_bb)` | ![](images/bb/rcross_bb.png) | ![](images/bb/sail_bb.png) | ![](images/bb/beside_rcross_sail.png) |
+
 
 ### `make_cross`
 
